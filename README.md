@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Alan, a **Data Scientist / ML engineer** with an **MSc. in Statistics and Machine Learning** 🤖. 
+
 Located in Sweden  <img src="sweden.png" alt="drawing" width="25"/> and born in Mexico City  <img src="mexico.png" alt="drawing" width="25"/>.
 Here you can find projects that showcase my skills and knowledge in Computer Vision, Deep Learning, [Time Series](https://github.com/AlanCT-MLe/Forecast-Time-Series), Data Analytics, and [LLM (NLP)](https://github.com/AlanCT-MLe/Single-Origin-Coffee-Prediction-DistilBert).
 

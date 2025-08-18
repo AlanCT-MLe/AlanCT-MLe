@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Alan, a Data Scientist / ML engineer with an MSc. in Statistics and Machine Learning 🤖. Located in Sweden 🇸🇪 and born in Mexico City 🇲🇽.
+
 Currently, I am taking courses in [Computer Vision](https://www.udacity.com/course/computer-vision-nanodegree--nd891), [Data Engineering (AWS)](https://www.udacity.com/course/data-engineer-nanodegree--nd027), and [Deep Learning](https://www.coursera.org/professional-certificates/ibm-deep-learning-with-pytorch-keras-tensorflow) to learn topics I enjoy and apply concepts I learned during my master's degree to keep my brain busy. 🕹 👾
 
 

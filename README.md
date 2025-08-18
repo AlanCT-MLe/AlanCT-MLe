@@ -1,4 +1,4 @@
-## Hello there! <del>General Kenobi</de> <img src="g8bit.png" alt="drawing" width="200"/>
+## Hello there! <del>General Kenobi</de> <img src="g8bit.png" alt="drawing" width="500"/>
 
 <!--
 **AlanCT-MLe/AlanCT-MLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

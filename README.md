@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently, I am taking courses in [Computer Vision](https://www.udacity.com/course/computer-vision-nanodegree--nd891), [Data Engineering (AWS)](https://www.udacity.com/course/data-engineer-nanodegree--nd027), and [Deep Learning](https://www.coursera.org/professional-certificates/ibm-deep-learning-with-pytorch-keras-tensorflow) to learn topics I enjoy and apply concepts I learned during my master's degree to keep my brain busy.
+
+
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
